@@ -1,14 +1,11 @@
 {
-  "name": "videojs-record",
+  "name": "sportscam2",
   "version": "4.0.0",
   "description": "A video.js plugin for recording audio/video/image files.",
   "author": "Collab",
   "license": "MIT",
   "readmeFilename": "README.md",
-  "bugs": {
-    "url": "https://github.com/collab-project/videojs-record/issues"
-  },
-  "homepage": "https://github.com/collab-project/videojs-record",
+  "homepage": "https://github.com/ogmike2000/sportscam2.com",
   "main": "dist/videojs.record.js",
   "style": "dist/css/videojs.record.css",
   "sass": "src/css/videojs.record.scss",
@@ -20,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/collab-project/videojs-record.git"
+    "url": "https://github.com/ogmike2000/sportscam2.git"
   },
   "scripts": {
     "clean": "rimraf dist",
